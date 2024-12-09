@@ -1,3 +1,4 @@
 .vscode
 *Zone.Identifier
 *.DS_Store
+\word2vec_models
