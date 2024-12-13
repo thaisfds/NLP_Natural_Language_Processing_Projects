@@ -1,5 +1,7 @@
 .vscode
 *Zone.Identifier
 *.DS_Store
-\word2vec_models_v2
+\word2vec_models
 \word2vec_models_v1
+\word2vec_models_v2
+\results
